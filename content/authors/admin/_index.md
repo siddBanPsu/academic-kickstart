@@ -30,10 +30,10 @@ education:
   courses:
   - course: Ph.D. in Information Sciences (NLP)
     institution: The Pennsylvania State University
-    year: 2016
+    # year: 2016
   - course: B.Tech in Industrial Engineering
     institution: Indian Institute of Technology, Kharagpur
-    year: 2009
+    # year: 2009
 # - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -73,6 +73,8 @@ email: ""
 ---
 
 Hello everyone. Welcome to my small little webspace. 
-Currently, I am based in warm and awesome Singapore and working for Traveloka as a NLP Senior Data Scientist. In mid 2019, I made a move (along with my wife) to Singapore from USA. I spent around 7 enjoyable years in USA (first, in Pennsylvania followed by Silicon Valley, California). 
-Other than work, I love to travel, hike and explore new dishes. 
+Currently, I am based in warm and awesome Singapore and working for Traveloka as a NLP Senior Data Scientist. 
+In mid 2019, I made a move (along with my wife) to Singapore from USA. 
+I spent around 7 enjoyable years in USA before the move (first, in Pennsylvania followed by Silicon Valley, California). 
+Other than work, I love to travel, sketch, hike and explore new dishes. 
 
