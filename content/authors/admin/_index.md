@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Natural Language Processing and Machine Learning. Also, love to travel, hike and explore new dishes.
+bio: My interests include Natural Language Processing and Machine Learning. Also, love to travel, hike, sketch and explore new dishes.
 
 interests:
 - Machine Learning
 - Natural Language Processing (NLP)
 - Travel
+- Sketching
 - Food
 
 education:
