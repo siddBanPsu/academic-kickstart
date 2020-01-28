@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Sunnyvale, California"
   date_start = "2016-02-01"
-  date_end = "20190-07-30"
+  date_end = "2019-07-30"
   description = """Worked on multiple NLP projects such as document classification, clickbait detection, named entity recognition."""
 
 +++
