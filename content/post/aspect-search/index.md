@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Aspect Based Search"
+title: "Aspect Based Semantic Search"
 subtitle: ""
 summary: ""
 authors: []

@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "TravelBlog"
-  url = "#travelblog"
+  name = "Travel"
+  url = "#travel"
   weight = 20
 
 [[main]]
   name = "Technical"
-  url = "#tech"
+  url = "#posts"
   weight = 25
 
 #[[main]]
