@@ -5,7 +5,7 @@ title: "Aspect Based Semantic Search"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["Deep Learning"]
 categories: []
 date: 2020-01-28T22:44:01+08:00
 lastmod: 2020-01-28T22:44:01+08:00
