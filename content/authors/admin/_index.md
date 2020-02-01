@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Natural Language Processing and Machine Learning. Also, love to travel, hike, sketch and explore new dishes.
+bio: My interests include Natural Language Processing and Machine Learning. Also, I love to travel, hike, run, sketch and explore new dishes.
 
 interests:
 - Machine Learning
 - Natural Language Processing (NLP)
 - Travel
+- Running
 - Sketching
 - Food
 
@@ -49,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sidd2006
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=69fATowAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/siddBanPsu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

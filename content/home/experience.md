@@ -24,11 +24,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2019-08-13"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Machine Learning Modelling for NLP Tasks
-  """
+  description = """Machine Learning Modelling for NLP Tasks: Text Correction, Named Entity Recognition and other sequence problems."""
 
 [[experience]]
   title = "Research Scientist"
@@ -37,6 +33,35 @@ date_format = "Jan 2006"
   location = "Sunnyvale, California"
   date_start = "2016-02-01"
   date_end = "2019-07-30"
-  description = """Worked on multiple NLP projects such as document classification, clickbait detection, named entity recognition."""
+  description = """Worked on multiple NLP projects such as Document Classification, Clickbait detection, Entity Disambiguation."""
+
+
+[[experience]]
+  title = "Graduate Student Researcher"
+  company = "The Pennsylvania State University"
+  company_url = ""
+  location = "State College, Pennsylvania"
+  date_start = "2012-08-13"
+  date_end = "2016-12-31"
+  description = """Thesis on Abstractive Summarization for News, Conversations and Social Media."""
+
+
+[[experience]]
+  title = "Senior Consultant"
+  company = "Oracle Retail Consulting"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2011-01-30"
+  date_end = "2012-07-15"
+  description = """Markdown Optimization for retail giants worldwide."""
+
+[[experience]]
+  title = "Operations Research Analyst"
+  company = "Sabre Airline Solutions"
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2009-06-15"
+  date_end = "2011-01-25"
+  description = """Revenue management and Airline scheduling solutions for multiple airlines using Operations Research models."""
 
 +++
