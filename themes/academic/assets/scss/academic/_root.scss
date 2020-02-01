@@ -18,6 +18,7 @@ body {
   font-family: inherit;
   font-size: 1rem;
   line-height: inherit;
+  text-align: justify;
   color: inherit;
   background-color: $sta-background;
   margin-top: 70px; /* Offset body content by navbar height. */
@@ -80,6 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
+  text-align: left;
 
   /* Ensure long words do not overflow into content. */
   overflow-wrap: break-word;
