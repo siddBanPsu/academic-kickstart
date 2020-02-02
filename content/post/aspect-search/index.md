@@ -27,5 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-commentable: true
 ---
