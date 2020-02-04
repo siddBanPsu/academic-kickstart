@@ -19,11 +19,6 @@
     return navbar_offset;
   }
 
-  function changeValue(elementName, newValue){
-    document.getElementsByName(elementName)[0].value=newValue;
-    window.location.hash = "#comment-form";
-  };
-
   /**
    * Responsive hash scrolling.
    * Check for a URL hash as an anchor.
