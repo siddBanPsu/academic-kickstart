@@ -74,8 +74,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 
-  [params.staticman]
-    endpoint = "https://static-sidd.herokuapp.com/v3/entry"
-    username = "siddBanPsu"
-    repository = "academic-kickstart"
-    branch = "master"
