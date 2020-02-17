@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: General
 
 # View.
 #   1 = List

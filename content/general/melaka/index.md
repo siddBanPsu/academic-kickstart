@@ -7,7 +7,7 @@ summary: ""
 authors: [Siddhartha Banerjee]
 disable_comments: false
 commentable: true
-tags: ["Malaysia", "Food"]
+tags: ["Malaysia", "Food", "Travel"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

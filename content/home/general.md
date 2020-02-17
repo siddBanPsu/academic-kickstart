@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent Travel Posts"
+title = "Recent General Posts"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "travel"
+  page_type = "general"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5

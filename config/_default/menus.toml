@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Travel"
-  url = "#travel"
+  name = "General"
+  url = "#general"
   weight = 20
 
 [[main]]
