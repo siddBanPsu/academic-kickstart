@@ -4,7 +4,7 @@
 title: "Aspect Based Semantic Review Search"
 subtitle: ""
 summary: ""
-authors: [Siddhartha Banerjee]
+authors: ["admin"]
 tags: ["Deep Learning", "NLP"]
 categories: []
 date: 2020-01-28T22:44:01+08:00

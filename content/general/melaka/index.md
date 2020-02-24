@@ -4,7 +4,7 @@ date: 2020-02-14T09:26:36+05:30
 draft: false
 subtitle: ""
 summary: ""
-authors: [Siddhartha Banerjee]
+authors: ["admin"]
 disable_comments: false
 commentable: true
 tags: ["Malaysia", "Food", "Travel"]
