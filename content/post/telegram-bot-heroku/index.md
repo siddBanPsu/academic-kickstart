@@ -157,7 +157,7 @@ In order to repeatedly get new news articles, I used an amazing library called [
 
 #### Deploying on Heroku ####
 
-The deployment part is pretty straightforward. The github repo can be directly linked to have continuous development on Heroku.First, create an application on Heroku. In the root folder of the application, a Procfile needs to be created, only with the following content where telebot.py is the main python file to run. You have to set up automatic deploys on Heroku.
+The deployment part is pretty straightforward. The github repo can be directly linked to have continuous development on Heroku. First, create an application on Heroku. In the root folder of the application, a Procfile needs to be created, only with the following content where telebot.py is the main python file to run. You have to set up automatic deploys on Heroku.
 
 ```c++
 worker: python app/telebot.py
