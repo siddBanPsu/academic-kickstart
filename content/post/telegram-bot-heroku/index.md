@@ -38,7 +38,7 @@ There is too much information on the web on COVID-19. However, I am very interes
 1. Information on **Statistics** of each country. {{< hl >}}For example: deaths, new cases, recovered, etc.{{< /hl >}}
 2. **Categorized news**, such that I can follow news specific to each topic. {{< hl >}}For example, new cases in countries, progress on drugs or vaccine, etc. {{< /hl >}}
 
-The [Worldometer website](https://www.worldometers.info/coronavirus/#countries) provides amazing information on the first one. For the second, I found that [NewsApi.org](https://newsapi.org/) provides a great API (_maximum of 500 API Calls per day_) for free if your application is not used for non-commercial purposes.
+The [Worldometer website](https://www.worldometers.info/coronavirus/#countries) provides amazing information on the first one. For the second, I found that [NewsApi.org](https://newsapi.org/) provides a great API (_maximum of 500 API Calls per day_) for free if your application is not used for commercial purposes.
 
 ### Main Steps ###
 
