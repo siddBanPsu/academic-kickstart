@@ -17,14 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Data Scientist"
+  company = "Carousell"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """ML for Search and Recommendations | Trust and Safety | Marketplace Experience"""
+
 [[experience]]
   title = "Senior Data Scientist"
   company = "Traveloka"
   company_url = ""
   location = "Singapore"
   date_start = "2019-08-13"
-  date_end = ""
-  description = """Machine Learning Modelling for NLP Tasks: Text Correction, Named Entity Recognition and other sequence problems."""
+  date_end = "2020-05-31"
+  description = """Machine Learning for NLP: Text Correction, Named Entity Recognition and other sequence modeling problems."""
 
 [[experience]]
   title = "Research Scientist"

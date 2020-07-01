@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist, NLP
+role: Data Scientist, Ph.D.
 
 # Organizations/Affiliations
 organizations:
-- name: Traveloka
-  url: ""
+ - name: NLP, Deep Learning
+   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Natural Language Processing and Machine Learning. Also, I love to travel, hike, run, sketch and explore new dishes.
 
 interests:
-- Machine Learning
+- Machine Learning (ML)
 - Natural Language Processing (NLP)
 - Travel
 - Running
