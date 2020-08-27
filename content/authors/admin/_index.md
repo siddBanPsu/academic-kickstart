@@ -76,9 +76,9 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-Hello everyone. Welcome to my small little webspace.
-Currently, I am based in warm and awesome Singapore and working for Traveloka as a NLP Senior Data Scientist.
-In mid 2019, I made a move (along with my wife) to Singapore from USA. 
-I spent around 7 enjoyable years in USA before the move (first, in Pennsylvania followed by Silicon Valley, California). 
+Hello everyone. Welcome to my little webspace.
+Currently, I am based in warm and awesome Singapore.
+In mid 2019, I made a move (along with my wife) to Singapore from USA.
+I spent around 7 enjoyable years in USA before the move (first, in Pennsylvania followed by Silicon Valley, California).
+I work on Machine Learning. Someday, I hope to make computers understand all languages of the world.
 Other than work, I love to travel, sketch, hike and explore new dishes. 
-
