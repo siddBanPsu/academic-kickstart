@@ -1,5 +1,5 @@
 ---
-title: "From USA to Singapore: Our self-organized relocation journey"
+title: "From USA to Singapore: Our relocation experience"
 date: 2021-02-28T09:26:36+05:30
 draft: false
 subtitle: ""
@@ -40,7 +40,7 @@ This post is primarily intended to provide as much information as possible on ou
 
 #### The Relocation journey ####
 
-No relocation is easy. Even ours was not. Especially given that we stayed in USA for 7 long years. Once we decided to take the steps towards relocation, we had to take a number of steps and here is an enumerated list of things (in no specific order) we needed to take care of so that we have minimal headaches going forward. 
+No relocation is easy. Even ours was not. Especially given that we stayed in USA for 7 long years. Once we decided to relocate, we had to take a number of steps. Here is an enumerated list of things (in no specific order) we needed to take care of so that we have minimal headaches going forward. 
 
 > Note that this relocation journey involved self-searching for jobs, self-organizing goods relocation and other steps such as opening of bank accounts, apartment hunting, etc. The above might not be applicable to people who are transferred to SG from other locations by the organization in which case a lot of these steps are helped by relocation agencies.
 
