@@ -94,7 +94,9 @@ After you have settled down in SG for a while, you can slowly start moving your 
 
 {{< figure src="images/mybaggage.png" title="Moving goods from USA to Singapore" lightbox="true" class="img-sm">}}
 
-  We bought several carton boxes from Home Depot (you all know what it is if you are in USA :grin:). Packed the stuff up, adhered to weight restrictions. A super helpful friend of ours kept our boxes when we left the Bay Area. And once we finalized an apartment in Singapore, the courier (DHL, actually :relieved:) picked up the boxes from his place and it took around 7-10 days to arrive to Singapore.
+  We bought several carton boxes from Home Depot (you all know what it is if you are in USA :grin:). Packed the stuff up, adhered to weight restrictions. A super helpful friend of ours kept our boxes when we left the Bay Area. And once we finalized an apartment in Singapore, the courier (DHL, actually :relieved:) picked up the boxes from his place and it took around 7-10 days to arrive to Singapore. 
+
+  > If you already know people in SG, it might be easier to just ship your goods to their place before you leave US (given they have space in their apartment) and have them available when you arrive. However, you will still need to move them from your friend's place in SG to your newly rented home (I guess it might add to your inconvenience a bit :sweat:)
 
 {{< figure src="images/goods.png" title="The boxes survived the journey (almost)" lightbox="true" class="img-sm">}}
 
@@ -127,4 +129,4 @@ I have summarized my experience with relocating from USA to Singapore. If you ha
 
 If I might have missed something, do let me know in comments below and I will try to incorporate in the article via a short update. 
 
-> **<span style="color:red">Goodluck on your move. :singapore: awaits you!</span>**
+> **<span style="color:red">Goodluck on your move. :singapore: awaits you! Enjoy the :sunny: and :umbrella:, sweat a lot and enjoy the Laksa!</span>** 
