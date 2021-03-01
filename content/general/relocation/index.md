@@ -80,6 +80,8 @@ People ask me, is it worth it? I would say, yes. Completely. Saves a lot of your
 
 * **Bank Account:** Yes, you can set up a bank account in Singapore while you are in USA. You can even get your debit card shipped to USA (while you are there!). It makes it super easy coz when you land in SG, you will have an account ready to be used. A number of banks allow this facility. I personally chose to use [DBS Bank](https://www.dbs.com.sg/) (considered the best bank in Singapore) -- specifically, the [Multiplier Account](https://www.dbs.com.sg/personal/deposits/bank-earn/multiplier). You can transfer some money from your US account to the SG account before you land here. That way, you can start withdrawing cash at the several ATM's here in Singapore.
 
+  > Please note that you will need your IPA (In-principle approval) letter to apply for the bank account. Takes a few days if your documents are in perfect shape.
+
   > DBS debit cards can be only used at DBS/POSB ATM's in Singapore. But don't worry, they are present everywhere islandwide. Plus, Singapore is very digital friendly -- you can pay using your digital wallet such as Google Pay at most places.
 
 {{< figure src="images/dbs-atms.png" title="DBS/POSB ATM Network [link](https://www.dbs.com.sg/index/locator.page)" lightbox="true" class="img-sm">}}
