@@ -70,7 +70,7 @@ People ask me, is it worth it? I would say, yes. Completely. Saves a lot of your
 
 * **Phone Number:** To be able to retain the US Phone number is a pretty important thing. You will need your phone number to access bank accounts in USA (that you will leave behind). Plus, in the starting days, the number will be helpful for you as you can use an international phone number of your bank account in Singapore.  Here is what you need to do:
 
-  Port your number to [Google Fi](https://support.google.com/fi/answer/6369965?hl=en)/[Google Voice](https://support.google.com/voice/answer/1065667?hl=en).
+  > **Port your number to [Google Fi](https://support.google.com/fi/answer/6369965?hl=en)/[Google Voice](https://support.google.com/voice/answer/1065667?hl=en).**
 
   The <span style="color:green">Google Fi</span> option will basically provide you a Sim card with which you can travel to SG and use it for the first few days before getting a SG phone number. At that point, you can port your number to <span style="color:green">Google Voice</span> and keep the US number permanently. 
   
