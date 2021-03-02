@@ -104,6 +104,15 @@ After you have settled down in SG for a while, you can slowly start moving your 
 
 * **Flights:** Book your flights as soon as you have clear idea on when you are moving to SG. Nothing extraordinary about it, just bear with the loooooong journey :airplane::airplane::airplane::airplane::airplane:
 
+* **Sim Card:** Even if you already have a sim (Google Fi, probably), you might still want a local sim (for stable data). Most local long term sim-cards in Singapore will require you to show proof of residency. Therefore, for the first few days, you can opt to get a [Tourist Sim Card](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist). You can either pre-order the card before you leave US or just queue and buy it at the airport [in the cash exchange retail outlet]. There are other options available too from other carriers.
+
+ > You can use this card for travelling on public transportation -- trains and buses. **<span style="color:blue">Isn't it cool?</span>** :sunglasses: Remember to top up at 7-Eleven's or even the machines at the MRT (train) stations.
+
+{{< figure src="images/simcard.png" title="Get a Tourist Sim Card [here](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist)" lightbox="true" class="img-sm">}}
+
+* **Install Grab:** [Grab](https://www.grab.com/sg/) is SG's ride hailing company (it is actually a SuperApp -- includes food delivery, payments and other services).  Download Grab on your phone (app available both for iOS and Android) before you leave from US (preferable) or just after getting a sim in SG. There are other cab providers (such as _Gojek_ or _ComfortDelgro_) in SG, too. However, I would suggest Grab for the first time because in Grab, you can select the car type you want.
+
+  > Generally, the first time you land, there is a high chance that you will have several large suitcases. Book a large family car (6-seater) and your luggage can be easily fit into those. 
 
 * **First few days:** We stayed at a hotel (can pick any one based on reviews :wink:) for the first few days and completed our initial formalities (on EP, etc.) and also started looking for apartments. We also explored around the city, getting a little comfortable with the public transport and of course, learning how to order food at [food courts and hawker centres](https://www.oursgheritage.gov.sg/hawker-culture-in-singapore/inscription-of-hawker-culture/). :smile:
 
