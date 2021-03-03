@@ -104,6 +104,17 @@ After you have settled down in SG for a while, you can slowly start moving your 
 
 * **Flights:** Book your flights as soon as you have clear idea on when you are moving to SG. Nothing extraordinary about it, just bear with the loooooong journey :airplane::airplane::airplane::airplane::airplane:
 
+* **Immigration Clearance:** One of the dreaded pieces for me during cross-border travel has always been immigration. Especially when you are actually entering a country with intent of long-term stay. But, in SG, immigration was a breeze. Show the documents to the officer and you are through. Most of the other formalities will be done by your hiring organization such issue of EP, etc. (mentioned below).
+
+  > Make sure you have copies of the IPA your hiring company sent you earlier and your passport. That is all you need to show to the immigration officer.
+
+  > Once your EP is issued within the next few days, you can use automated clearance to leave and enter Singapore.
+
+{{< figure src="https://ttgasia.2017.ttgasia.com/wp-content/uploads/sites/2/2018/10/Changi-Airport-immigration.jpg" title="Immigration Hall | source: [link](https://www.ttgasia.com/2018/10/04/ica-trials-electronic-arrival-card-for-foreign-visitors-to-singapore/)" lightbox="true" class="img-sm">}}
+
+
+Once done, proceed to pick up our luggage and proceed to exit (pick up a tourist sim before leaving if you intend to).
+
 * **Sim Card:** Even if you already have a sim (Google Fi, probably), you might still want a local sim (for stable data). Most local long term sim-cards in Singapore will require you to show proof of residency. Therefore, for the first few days, you can opt to get a [Tourist Sim Card](https://www.singtel.com/personal/products-services/mobile/prepaid-plans/hi-tourist). You can either pre-order the card before you leave US or just queue and buy it at the airport [in the cash exchange retail outlet]. There are other options available too from other carriers.
 
  > You can use this card for travelling on public transportation -- trains and buses. **<span style="color:blue">Isn't it cool?</span>** :sunglasses: Remember to top up at 7-Eleven's or even the machines at the MRT (train) stations.
